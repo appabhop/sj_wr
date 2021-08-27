@@ -7,8 +7,8 @@ public Plugin myinfo =
 	name = "SourceJump Global WR Lookup",
 	author = "appa & Blank",
 	description = "SourceJump Global WR Lookup",
-	version = "1.0",
-	url = ""
+	version = "2.0",
+	url = "https://github.com/appabhop/sj_wr"
 };
 
 ConVar gCV_ApiKey;
