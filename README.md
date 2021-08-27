@@ -1,6 +1,7 @@
 # sj_wr
 
 adds the SourceJump database wr to the bhoptimer hud
+
 adds a command to lookup the SourceJump database times (sm_gwr)
 
 set sj_api_key in the cfg to your api key
